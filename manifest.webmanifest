@@ -1,0 +1,20 @@
+{
+  "id": "/sqa-n153-app/",
+  "name": "SQA N153 – Gestione Documentale",
+  "short_name": "SQA N153",
+  "description": "Gestione documenti, verifiche e controlli per le sedi N153",
+  "start_url": "/sqa-n153-app/",
+  "scope": "/sqa-n153-app/",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#426580",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
